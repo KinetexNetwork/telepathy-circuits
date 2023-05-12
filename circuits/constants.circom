@@ -21,7 +21,7 @@ function getFinalizedHeaderDepth() {
 }
 
 function getFinalizedHeaderIndex() {
-    return 105;
+    return 103; // justified checkpoint
 }
 
 function getExecutionStateRootDepth() {
